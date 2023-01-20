@@ -1,0 +1,7 @@
+
+T
+java:S2629"7Use the built-in formatting to construct this argument.(ĞÄ‹8¶£¾Ú0
+l	java:S116
+"WRename this field "API_PAGE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à²ØÕ
+^
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ĞÄ‹8¼£¾Ú0

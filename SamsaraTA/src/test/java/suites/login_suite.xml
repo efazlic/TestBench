@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://beoust.com/testng/testng-1.0.dtd" >
+<suite name="Login Suite" parallel="methods" thread-count="4">
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+    <test name="Login Tests">
+        <groups>
+            <run>
+                <include name="login" />
+                <exclude name="deprecated"></exclude>
+                <exclude name="broken"></exclude>
+                <exclude name="bugs"></exclude>
+                <exclude name="sequential"></exclude>
+            </run>
+        </groups>
+        <packages>
+            <package name="tests.*"></package>
+        </packages>
+    </test>
+</suite>

@@ -1,0 +1,10 @@
+
+h
+java:S11920"FDefine a constant instead of duplicating this literal "false" 3 times.(ßé‰Êøÿÿÿÿ8˜ôÀŠÚ0
+q
+java:S11921"TDefine a constant instead of duplicating this literal "' to boolean value!" 3 times.(åÍ•µ8˜ôÀŠÚ0
+R
+java:S2629 "7Use the built-in formatting to construct this argument.(»Ö¹üÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„ÙÇÀøÿÿÿÿ
+\
+java:S3457 "AFormat specifiers should be used instead of string concatenation.(»Ö¹üÿÿÿÿ

@@ -1,0 +1,7 @@
+
+Y
+java:S2629"7Use the built-in formatting to construct this argument.(ä³ß…şÿÿÿÿ8÷‹êÚ0
+|	java:S116
+"bRename this field "RESET_PASSWORD_PAGE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†”‡÷øÿÿÿÿ
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ä³ß…şÿÿÿÿ8ÿ‹êÚ0

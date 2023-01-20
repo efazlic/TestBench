@@ -1,0 +1,13 @@
+
+r
+java:S1192-"WDefine a constant instead of duplicating this literal "--window-size=1600x900" 3 times.(¯Šˆœşÿÿÿÿ
+R
+java:S2629&"7Use the built-in formatting to construct this argument.(‚Šê¢üÿÿÿÿ
+_
+java:S2259`"DA "NullPointerException" could be thrown; "driver" is nullable here.(â‰Åıÿÿÿÿ
+\
+java:S3457&"AFormat specifiers should be used instead of string concatenation.(‚Šê¢üÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'org.openqa.selenium.JavascriptExecutor'.(Ë‚«»
+m
+java:S1128"KRemove this unused import 'org.openqa.selenium.chrome.ChromeDriverService'.(ë„Çıÿÿÿÿ8íê³ØÙ0

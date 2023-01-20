@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a77d0af-bf60-44e9-8932-70f5ebe5ee16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/1/6/16f4e64650faf937e5b89e0de85c3de5a8a70c51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/2/2/2257218f239bea56e63bef96c6ef449402bc4f3a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/2/4/24cd636839b1f9f6e81655d1f6d2cd139a392b50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/2/8/2864ab77ae3c23956ab6ac92a82446074bbe5ce1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/2/a/2a75e542d05fae57d06a3e1d2e58438fa5e67209" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/3/2/329dfcdd40258946e2f27cfa04a0c305e7d3db37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/3/a/3a80da8a452c571f38c84379ce78747e9b3e3687" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/3/f/3f70c5cd01e688cc3ce3ce63ccdd9f234aebed14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/4/2/4207a3cca3ed3d54a5b01673b16a885f74d2aaf0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/4/9/49ab16fac5870e7cfc155aadb42757e57529b664" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/4/b/4b06ea084b3f55cc209a68a82a1d364a3455e1dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/4/f/4f7e4c3cda2398c35da31f89549a14fc7cbfc656" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/5/4/541798232e19858d2bfeaf86b4e57541910fe935" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/6/0/604b4314be1ec97f7f7bf4f7a8c3975a8361d26e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/6/3/636410b68315a5ce7cbdeacd281698c4f57b75af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/6/4/64214ead2820724705dad38cca26d98c7a9326fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/6/6/66077f32b9dc24295217bea1c5870e4d29175618" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/6/d/6d3fbfe5dac5daf7bbebbf7e8c85c1e94b5ad942" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/6/e/6e804915e5c0bfbb911d10c63a826e86f5adf23f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/8/9/89ea391e585a13e0471d31229d3c4a7cc06ca7c6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/9/6/9655b2a35fae75d92697b79cda62632f93f33e6e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/9/b/9be7a93d02225dff1222aa9de8d0f7b6806fd0cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/a/1/a1c65c447d79eeba0370a7209c38c89813e20c4f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/a/2/a2e12188de5085898cd736640c35febe10baed49" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/a/4/a4f7c8ca48dbc53d5bf072a4eaa4feb42e997305" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/a/6/a6205bcdc343210bd0b80c938cf79283f4ee1064" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/b/4/b4492d4ef5a16a68bce1201e30683a790bdcb0aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/b/8/b80bb5c03f611ded47cc13d4c8412518116545f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/b/c/bc37882f36d9d23d24d6f6d407bc17e0d4580c1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/b/f/bf631a435d7a9816396be1a7ffcf0315a19ff792" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/c/4/c46559428044e940f5f13b1f6b4605b5829c00fc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/c/a/cadf4727b4818ec72b75971dddea224e5dbc3743" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/c/e/ceb772f34cfbec2ffea8b94d7811165d0af817fc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/d/4/d407cddd6f600a5abff9561bb4ee983728c8db7f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/d/4/d49b617166e59acc98d1b29353bdec2d3919c36b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/e/0/e0ee0f01c45709dbd13e6ba4a67bd6b916c15e2e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/e/1/e1182a8182d1d46a5d3c1f3d1a73a01969fe76d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/e/9/e91c8fd298b23b8aa6f52c7b729600feb9a16ff7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/e/9/e93f4c9925f1fb9f77e9057aac61989f15670111" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/e/d/edc46d4c89650b231a350d201406d73f9f26420c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/f/1/f17032532cbcfe2e33bb1d07fd8d655b3e40789b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/f/3/f3710a359d33b8cfce7a840369dbfcea90529948" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/f/4/f4d0ecda70ae32446d7f748f96c1e2c6f239fa7d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/f/5/f50a14d7b094447419a553a2d566cc751f2e2e7b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/f/5/f515d385453dd429a9d6fe9bbe73478efca990ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/f/7/f79e12d2cb4f76339fb0cc15d28be78d19fcb721" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/f/8/f820b8be82854cbc9716376d85a79e000e1a1595" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/f/b/fb45bce96cbe6f9f23649b9089eb49ab40612eb7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/annotations/Jira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/data/ApiCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/data/CommonStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/data/Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/data/HeroClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/data/PageUrlPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/data/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/data/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/objects/ApiError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/objects/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/objects/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/AddHeroDialogBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/AddUserDialogBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/AdminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/ApiPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/BasePageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/CommonLoggedInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/CommonLoggedOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/CommonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/DeleteHeroDialogBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/DeleteUserDialogBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/EditHeroDialogBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/EditUserDialogBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/GalleryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/HeroDetailsDialogBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/HeroesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/PracticePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/ProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/ResetPasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/UsersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/pages/WelcomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/utils/DateTimeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/utils/LoggerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/utils/PropertiesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/utils/RestApiUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/utils/ScreenshotUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/java/utils/WebDriverUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/resources/common.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/resources/locale/locale_en.loc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/resources/locale/locale_yu.loc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/listeners/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/suites/evaluation_suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/suites/example_suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/suites/login_suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/suites/regression_suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/suites/sanity_suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/BaseTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/login/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/login/LoginTestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/login/LoginTwoDrivers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/login/SuccessfulLoginLogout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/login/UnsuccessfulLoginWrongPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/login/VerifyNavigationForAdminUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/login/VerifyNavigationForEndUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/page_evaluation/EvaluateLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/register/SuccessfulRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamsaraTA/src/test/java/tests/users/AddNewUser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KaDoPXmLTzkaiJ8meKGOlsaGBZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/efazlic/OneDrive - ENDAVA/Desktop/TestBench"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\efazlic\OneDrive - ENDAVA\Desktop\TestBench" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a77d0af-bf60-44e9-8932-70f5ebe5ee16" name="Changes" comment="" />
+      <created>1674203975154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674203975154</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

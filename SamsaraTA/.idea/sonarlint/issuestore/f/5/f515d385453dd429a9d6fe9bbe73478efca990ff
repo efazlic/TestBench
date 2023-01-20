@@ -1,0 +1,7 @@
+
+M
+java:S2629"7Use the built-in formatting to construct this argument.(×¿û²
+o	java:S116
+"ZRename this field "HEROES_PAGE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‘¤ 
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(×¿û²
