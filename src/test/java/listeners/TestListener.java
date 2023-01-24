@@ -31,5 +31,23 @@ public class TestListener extends LoggerUtils implements ITestListener {
         log.info("[TEST STARTED] " + sTestName);
     }
 
+    @Override
+    public void onTestSuccess(ITestResult result) {
+        String sTestName = result.getTestClass().getName();
+        log.info("[TEST SUCCESS] " + sTestName);
+    }
+
+    @Override
+    public void onTestFailure(ITestResult result) {
+        String sTestName = result.getTestClass().getName();
+        log.info("[TEST FAILED] " + sTestName);
+    }
+
+    @Override
+    public void onTestSkipped(ITestResult result) {
+        String sTestName = result.getTestClass().getName();
+        log.info("[TEST SKIPPED] " + sTestName);
+    }
+
 
 }

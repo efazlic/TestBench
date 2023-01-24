@@ -1,18 +1,0 @@
-
-l
-java:S1192"VDefine a constant instead of duplicating this literal "Screenshot for test '" 3 times.(ƒÅòé
-M
-java:S2629"7Use the built-in formatting to construct this argument.(ÔÕªş
-M
-java:S2629"7Use the built-in formatting to construct this argument.(ƒÅòé
-M
-java:S2629"7Use the built-in formatting to construct this argument.(§Şş´
-n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÂÅúr
-W
-java:S3457"AFormat specifiers should be used instead of string concatenation.(ÔÕªş
-W
-java:S3457"AFormat specifiers should be used instead of string concatenation.(ƒÅòé
-W
-java:S3457"AFormat specifiers should be used instead of string concatenation.(§Şş´
-\
-java:S3457!"AFormat specifiers should be used instead of string concatenation.(ÌÌ•ƒÿÿÿÿÿ
