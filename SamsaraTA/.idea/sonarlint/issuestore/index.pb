@@ -98,3 +98,21 @@ S
 #src/main/java/objects/ApiError.java,2\a\2a75e542d05fae57d06a3e1d2e58438fa5e67209
 O
 src/main/java/objects/User.java,e\9\e91c8fd298b23b8aa6f52c7b729600feb9a16ff7
+d
+4src/test/java/tests/register/SuccessfulRegister.java,2\9\290750b4ab0315ae8127622f7fb1f84529177e92
+R
+"src/main/java/pages/LoginPage.java,4\b\4bdc7fe650a4170fd3332cdfc4dca51f7507f98b
+d
+4src/test/java/tests/login/SuccessfulLoginLogout.java,5\7\5700e736cd06bd01c88c9cc46bc5b2d9997b3213
+P
+ src/main/java/data/ApiCalls.java,3\4\349302213e29e503174978c34ffe3b0fdc377b5a
+W
+'src/test/java/tests/login/DemoTest.java,b\7\b714525f545033df013b0548394598491d6a94c9
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+V
+&src/test/java/suites/example_suite.xml,f\8\f8b2d89ba0d2a36a88703f76665c292875f17f94
+S
+#src/main/java/annotations/Jira.java,5\0\50e08edc586d3522f494be4eae78fdb9d509227e
+U
+%src/main/java/utils/RestApiUtils.java,1\6\16a2182da1e1872c6c114a0a8ae466a302c81ae3

@@ -5,72 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e80f385b-2a2d-4068-830b-666f86a7a4f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/Jira.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/ApiCalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/CommonStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/Groups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/HeroClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/PageUrlPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/TestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/objects/ApiError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/objects/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/objects/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AddHeroDialogBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AddUserDialogBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AdminPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ApiPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasePageClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CommonLoggedInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CommonLoggedOutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CommonPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DeleteHeroDialogBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DeleteUserDialogBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/EditHeroDialogBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/EditUserDialogBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/GalleryPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HeroDetailsDialogBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HeroesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/PracticePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ProfilePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/RegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ResetPasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/UsersPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/WelcomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/DateTimeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/LoggerUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/PropertiesUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/RestApiUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ScreenshotUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/WebDriverUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/common.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/locale/locale_en.loc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/locale/locale_yu.loc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/TestListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/suites/evaluation_suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/suites/example_suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/suites/login_suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/suites/regression_suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/suites/sanity_suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/login/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/login/LoginTestExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/login/LoginTwoDrivers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/login/SuccessfulLoginLogout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/login/UnsuccessfulLoginWrongPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/login/VerifyNavigationForAdminUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/login/VerifyNavigationForEndUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/page_evaluation/EvaluateLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/register/SuccessfulRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/users/AddNewUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -96,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.LoginTestExample.testExample1">
     <configuration name="LoginTestExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SamsaraTA" />
