@@ -2,11 +2,14 @@ package utils;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 
 import java.text.DateFormat;
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Locale;
 
 public class DateTimeUtils extends LoggerUtils {
 
@@ -39,13 +42,30 @@ public class DateTimeUtils extends LoggerUtils {
         return getFormattedDateTime(date, pattern);
     }
 
+    public static String getLocalizedDateTime(Date date, String pattern, String locale) {
+        Locale loc = new Locale(locale);
+        DateFormat dateFormat = new SimpleDateFormat(pattern, loc);
+        return dateFormat.format(date);
+    }
+
+    public static Date getParsedDateTime(String sDateTime, String pattern) {
+        DateFormat dateFormat = new SimpleDateFormat(pattern);
+        Date date = null;
+        try {
+            date = dateFormat.parse(sDateTime);
+        } catch (ParseException e) {
+            Assert.fail("Cannot parse date '" + sDateTime + "' using pattern '" + pattern + "'! Message: " + e.getMessage());
+        }
+        return date;
+    }
+
     public static String getDateTimeStamp() {
         return getFormattedCurrentDateTime("yyMMddHHmmss");
     }
 
     public static Date getBrowserDateTime(WebDriver driver) {
         JavascriptExecutor js = (JavascriptExecutor) driver;
-        String sBrowserDateTime = (String) js.executeScript("var browserDateTime = new Date().getTime(); return Intl.DateTimeFormat('en-GB', {dateStyle: 'full', timeStyle: 'long'}).format(browserDateTime);")
+        String sBrowserDateTime = (String) js.executeScript("var browserDateTime = new Date().getTime(); return Intl.DateTimeFormat('en-GB', {dateStyle: 'full', timeStyle: 'long'}).format(browserDateTime);");
         sBrowserDateTime = sBrowserDateTime.replace(" at ", " ");
         String sPattern = "EEEE, dd MMMM yyyy HH:mm:ss z";
         return getParsedDateTime(sBrowserDateTime, sPattern);

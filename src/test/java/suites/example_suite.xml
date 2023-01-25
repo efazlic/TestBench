@@ -1,8 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
-<suite name="Example Suite" parallel="true" thread-count="4">
-    <test verbose="2" name="Example Tests">
-        <classes>
-            <class name="tests.login.LoginTestExample" />
-        </classes>
-    </test>
-</suite>
