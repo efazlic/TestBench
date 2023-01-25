@@ -1,12 +1,13 @@
 <!DOCTYPE suite SYSTEM "http://beoust.com/testng/testng-1.0.dtd" >
-<suite name="Regression Suite" parallel="methods" thread-count="4">
+<suite name="Demo Suite" parallel="methods" thread-count="4">
     <listeners>
         <listener class-name="listeners.TestListener"/>
     </listeners>
-    <test name="Regression Tests">
+    <test name="Demo Tests">
+        <parameter name="updateJira" value="true"/>
         <groups>
             <run>
-                <include name="regression" />
+                <include name="demo" />
                 <exclude name="deprecated"></exclude>
                 <exclude name="broken"></exclude>
                 <exclude name="bugs"></exclude>

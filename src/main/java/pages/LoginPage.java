@@ -142,4 +142,9 @@ public class LoginPage extends CommonLoggedOutPage {
         return getTextFromWebElement(errorMessage);
     }
 
+    public WelcomePage login(String sUsername, String sPassword) {
+        return typeUsername(sUsername)
+                .typePassword(sPassword)
+                .clickLoginButton();
+    }
 }

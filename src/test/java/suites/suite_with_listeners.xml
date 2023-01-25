@@ -1,8 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
-
-<suite name="Suite With Listeners">
-    
-    <listeners>
-        <listener class-name=""></listener>
-    </listeners>
-</suite>
